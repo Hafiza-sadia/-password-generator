@@ -11,7 +11,7 @@ A simple and clean password generator built using **HTML**, **CSS**, and **JavaS
 - Responsive design
 
 ## 🖥️ Live Demo
-👉 [View it here](https://your-username.github.io/password-generator/)  
+👉 [View it here] https://hafiza-sadia.github.io/-password-generator/ 
 _Replace the link with your actual GitHub Pages link_
 
 ## 🚀 How to Use
