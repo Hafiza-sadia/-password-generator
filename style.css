@@ -1,0 +1,80 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+ background: linear-gradient(to right bottom,#ffa585,#45c5d4);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  background: #fff;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 320px;
+   box-shadow: 8px 8px 4px #909090;
+}
+
+h1 {
+  margin-bottom: 20px;
+  color: #2c3e50;
+}
+
+.inputbox {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.passbox {
+  width: 100%;
+  padding: 10px 40px 10px 10px;
+  font-size: 16px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+}
+
+.copy-btn {
+  position: absolute;
+  right: 10px;
+  cursor: pointer;
+  font-size: 18px;
+  color: #2980b9;
+  user-select: none;
+}
+
+.copied-msg {
+  position: absolute;
+  right: 40px;
+  font-size: 12px;
+  color: green;
+  display: none;
+}
+
+input[type="range"] {
+  width: 100%;
+  margin: 15px 0;
+}
+
+.lengthValue {
+  font-weight: bold;
+  color: #2980b9;
+}
+
+button {
+  margin-top: 15px;
+  padding: 10px 20px;
+  background: #2980b9;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #1f6391;
+}
